@@ -1,0 +1,1 @@
+descarga el proyecto y en tu consola preferida, debes primero dirigirte a la ubicacion del proyecto, debes escribir node main.js despues de esto te aparecera un menu de opciones en el cual debes seleccionar la opcion que vallas a realizae, buena suerte
